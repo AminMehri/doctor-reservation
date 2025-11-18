@@ -1,4 +1,4 @@
-# Amoot Project
+# Doctor Reservation Project
 
 A Simple Reservation System For Doctors And Patients.
 
